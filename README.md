@@ -1,0 +1,2 @@
+# setAttribute-and-getAttribute
+setAttribute在设置class的时候存在的兼容性问题，以及用getAttribute在获取图片的路径的时候存在的兼容性问题
